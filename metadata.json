@@ -1,0 +1,6 @@
+{
+  "name": "Mon Trésor - Personalized Romantic Birthday Keepsake",
+  "description": "An interactive, mobile-first digital memory book and romantic birthday gift website with custom scrapbook memories, polaroids, love letter, and secret reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
